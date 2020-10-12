@@ -1,0 +1,66 @@
+2020-10-01 23:23:12,138 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-01 23:23:16,153 [INFO] test_login_case1: This is the info message
+2020-10-01 23:23:16,153 [ERROR] test_login_case1: I am an exceptional case
+2020-10-01 23:23:16,153 [WARNING] test_login_case1: Something does not seem to be right, but not an error
+2020-10-01 23:23:16,154 [CRITICAL] test_login_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-01 23:23:28,555 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-01 23:23:28,572 [INFO] driver: Current url: http://automationpractice.com/index.php
+2020-10-01 23:23:28,581 [INFO] driver: Current title: My Store
+2020-10-01 23:25:34,336 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-01 23:25:38,304 [INFO] test_login_case1: This is the info message
+2020-10-01 23:25:38,304 [ERROR] test_login_case1: I am an exceptional case
+2020-10-01 23:25:38,304 [WARNING] test_login_case1: Something does not seem to be right, but not an error
+2020-10-01 23:25:38,304 [CRITICAL] test_login_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-01 23:25:52,566 [INFO] click_element_by_xpath: clicking the element
+2020-10-01 23:25:55,534 [INFO] enter_text_by_xpath: entering thje following text: hello@email.com
+2020-10-01 23:25:55,719 [INFO] enter_email: email entered hello@email.com
+2020-10-01 23:25:55,752 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-01 23:25:55,807 [INFO] enter_password: email entered $Password001
+2020-10-01 23:25:55,845 [INFO] click_element_by_xpath: clicking the element
+2020-10-01 23:25:56,556 [INFO] click_sign_in_button: Sign in button clicked.
+2020-10-01 23:25:57,566 [INFO] test_login_case1: We are able to sign in now
+2020-10-01 23:26:28,814 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-01 23:26:28,820 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication
+2020-10-01 23:26:28,834 [INFO] driver: Current title: Login - My Store
+2020-10-01 23:28:02,766 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-01 23:28:05,910 [INFO] test_login_case1: This is the info message
+2020-10-01 23:28:05,911 [ERROR] test_login_case1: I am an exceptional case
+2020-10-01 23:28:05,911 [WARNING] test_login_case1: Something does not seem to be right, but not an error
+2020-10-01 23:28:05,911 [CRITICAL] test_login_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-01 23:28:20,071 [INFO] click_element_by_xpath: clicking the element
+2020-10-01 23:28:23,018 [INFO] enter_text_by_xpath: entering thje following text: hello@email.com
+2020-10-01 23:28:23,179 [INFO] enter_email: email entered hello@email.com
+2020-10-01 23:28:23,223 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-01 23:28:23,327 [INFO] enter_password: email entered $Password001
+2020-10-01 23:28:23,363 [INFO] click_element_by_xpath: clicking the element
+2020-10-01 23:28:24,488 [INFO] click_sign_in_button: Sign in button clicked.
+2020-10-01 23:28:25,492 [INFO] test_login_case1: We are able to sign in now
+2020-10-01 23:28:36,119 [INFO] click_element_by_xpath: clicking the element
+2020-10-01 23:28:37,740 [INFO] sign_out: Signed out from the website.
+2020-10-01 23:28:37,740 [INFO] test_login_case1: test_login_case1_complite
+2020-10-01 23:28:37,742 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-01 23:28:37,767 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-10-01 23:28:37,782 [INFO] driver: Current title: Login - My Store
+2020-10-01 23:29:53,392 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-01 23:29:56,478 [INFO] test_login_case1: This is the info message
+2020-10-01 23:29:56,478 [ERROR] test_login_case1: I am an exceptional case
+2020-10-01 23:29:56,478 [WARNING] test_login_case1: Something does not seem to be right, but not an error
+2020-10-01 23:29:56,479 [CRITICAL] test_login_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-01 23:30:10,402 [INFO] click_element_by_xpath: clicking the element
+2020-10-01 23:30:13,400 [INFO] enter_text_by_xpath: entering thje following text: hello@email.com
+2020-10-01 23:30:13,558 [INFO] enter_email: email entered hello@email.com
+2020-10-01 23:30:13,607 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-01 23:30:13,918 [INFO] enter_password: email entered $Password001
+2020-10-01 23:30:13,960 [INFO] click_element_by_xpath: clicking the element
+2020-10-01 23:30:15,717 [INFO] click_sign_in_button: Sign in button clicked.
+2020-10-01 23:30:16,722 [INFO] test_login_case1: We are able to sign in now
+2020-10-01 23:30:27,452 [INFO] click_element_by_xpath: clicking the element
+2020-10-01 23:30:29,160 [INFO] sign_out: Signed out from the website.
+2020-10-01 23:30:29,161 [INFO] test_login_case1: test_login_case1_complite
+2020-10-01 23:30:29,163 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-01 23:30:29,189 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-10-01 23:30:29,197 [INFO] driver: Current title: Login - My Store
+2020-10-01 23:30:29,200 [INFO] driver: Current win_handle: CDwindow-95B1C507523630D43B68EB66496442B1
+2020-10-01 23:30:29,200 [INFO] driver: Current name: chrome
+2020-10-01 23:30:29,460 [INFO] driver: browser is closed
+2020-10-01 23:30:29,461 [INFO] driver: ******** TEARDOWN completed *************

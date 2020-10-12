@@ -1,0 +1,46 @@
+2020-10-05 00:03:34,343 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-05 00:03:37,017 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-05 00:03:37,018 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-05 00:03:37,018 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-05 00:03:37,018 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-05 00:03:39,865 [INFO] click_element_by_xpath: clicking the element
+2020-10-05 00:03:43,234 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-05 00:03:43,354 [INFO] enter_email: email entered uy776@email.com
+2020-10-05 00:03:43,385 [INFO] click_element_by_xpath: clicking the element
+2020-10-05 00:03:45,477 [INFO] click_element_by_xpath: clicking the element
+2020-10-05 00:03:47,560 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-05 00:03:49,625 [INFO] enter_name: First name entered Alex
+2020-10-05 00:03:49,664 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-05 00:03:51,720 [INFO] enter_lastname: Last name entered Smith
+2020-10-05 00:03:51,758 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-05 00:03:53,829 [INFO] create_password: Password entered $Password001
+2020-10-05 00:04:14,423 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-05 00:04:14,428 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-05 00:04:14,436 [INFO] driver: Current title: Login - My Store
+2020-10-05 00:04:14,437 [INFO] driver: Current win_handle: CDwindow-8E479D0B50E014D87AD7224668B514F6
+2020-10-05 00:04:14,437 [INFO] driver: Current name: chrome
+2020-10-05 00:04:14,559 [INFO] driver: browser is closed
+2020-10-05 00:04:14,559 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-05 00:06:42,294 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-05 00:06:44,975 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-05 00:06:44,975 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-05 00:06:44,976 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-05 00:06:44,976 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-05 00:06:47,510 [INFO] click_element_by_xpath: clicking the element
+2020-10-05 00:06:50,561 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-05 00:06:50,693 [INFO] enter_email: email entered uy776@email.com
+2020-10-05 00:06:50,721 [INFO] click_element_by_xpath: clicking the element
+2020-10-05 00:06:52,814 [INFO] click_element_by_xpath: clicking the element
+2020-10-05 00:06:54,910 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-05 00:06:56,977 [INFO] enter_name: First name entered Alex
+2020-10-05 00:06:57,017 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-05 00:06:59,072 [INFO] enter_lastname: Last name entered Smith
+2020-10-05 00:06:59,111 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-05 00:07:01,187 [INFO] create_password: Password entered $Password001
+2020-10-05 00:07:21,815 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-05 00:07:21,820 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-05 00:07:21,825 [INFO] driver: Current title: Login - My Store
+2020-10-05 00:07:21,827 [INFO] driver: Current win_handle: CDwindow-079519545F4D4A6D049EE130DC280EFA
+2020-10-05 00:07:21,827 [INFO] driver: Current name: chrome
+2020-10-05 00:07:21,956 [INFO] driver: browser is closed
+2020-10-05 00:07:21,956 [INFO] driver: ******** TEARDOWN completed *************

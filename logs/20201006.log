@@ -1,0 +1,493 @@
+2020-10-06 22:39:40,519 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 22:39:43,689 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 22:39:43,689 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 22:39:43,690 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 22:39:43,690 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 22:39:46,663 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 22:39:49,556 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 22:39:49,687 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 22:39:49,714 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 22:39:51,805 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 22:39:53,882 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 22:39:55,954 [INFO] enter_name: First name entered Alex
+2020-10-06 22:39:55,984 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 22:39:58,036 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 22:39:58,079 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 22:40:00,150 [INFO] create_password: Password entered $Password001
+2020-10-06 22:40:20,782 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 22:40:20,787 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 22:40:20,793 [INFO] driver: Current title: Login - My Store
+2020-10-06 22:40:20,795 [INFO] driver: Current win_handle: CDwindow-64F5CBD8FB15A8175C816635F86EABF0
+2020-10-06 22:40:20,795 [INFO] driver: Current name: chrome
+2020-10-06 22:40:20,902 [INFO] driver: browser is closed
+2020-10-06 22:40:20,902 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-06 22:44:03,793 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 22:44:06,568 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 22:44:06,568 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 22:44:06,568 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 22:44:06,569 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 22:44:09,316 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 22:44:12,294 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 22:44:12,472 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 22:44:12,502 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 22:44:15,045 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 22:44:17,136 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 22:44:19,215 [INFO] enter_name: First name entered Alex
+2020-10-06 22:44:19,260 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 22:44:21,334 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 22:44:21,374 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 22:44:23,497 [INFO] create_password: Password entered $Password001
+2020-10-06 22:44:44,236 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 22:44:44,243 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 22:44:44,252 [INFO] driver: Current title: Login - My Store
+2020-10-06 22:44:44,254 [INFO] driver: Current win_handle: CDwindow-A844BA44CBBF0E254FD722824E18C84B
+2020-10-06 22:44:44,254 [INFO] driver: Current name: chrome
+2020-10-06 22:44:44,394 [INFO] driver: browser is closed
+2020-10-06 22:44:44,394 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-06 22:45:30,055 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 22:45:32,720 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 22:45:32,721 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 22:45:32,721 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 22:45:32,721 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 22:45:35,656 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 22:45:38,680 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 22:45:38,867 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 22:45:38,908 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 22:45:41,006 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 22:45:43,095 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 22:45:45,178 [INFO] enter_name: First name entered Alex
+2020-10-06 22:45:45,216 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 22:45:47,288 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 22:45:47,328 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 22:45:49,444 [INFO] create_password: Password entered $Password001
+2020-10-06 22:45:49,486 [INFO] test_drop_down_list: clicking the dd_list
+2020-10-06 22:45:51,523 [INFO] select_day: Selected: 2
+2020-10-06 22:45:51,526 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 22:45:51,535 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 22:45:51,542 [INFO] driver: Current title: Login - My Store
+2020-10-06 22:45:51,543 [INFO] driver: Current win_handle: CDwindow-ABBED8060D3482D88DBE865E2A0552B3
+2020-10-06 22:45:51,543 [INFO] driver: Current name: chrome
+2020-10-06 22:45:51,734 [INFO] driver: browser is closed
+2020-10-06 22:45:51,735 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-06 22:58:27,536 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 22:58:30,336 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 22:58:30,336 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 22:58:30,336 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 22:58:30,336 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 22:58:33,568 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 22:58:36,806 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 22:58:36,933 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 22:58:36,964 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 22:58:39,050 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 22:58:41,126 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 22:58:43,202 [INFO] enter_name: First name entered Alex
+2020-10-06 22:58:43,238 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 22:58:45,295 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 22:58:45,335 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 22:58:47,411 [INFO] create_password: Password entered $Password001
+2020-10-06 22:58:47,450 [INFO] test_drop_down_list: clicking the dd_list
+2020-10-06 22:58:49,484 [INFO] select_day: Selected: 2
+2020-10-06 22:58:49,519 [INFO] test_drop_down_list: clicking the dd_list
+2020-10-06 22:58:51,549 [INFO] select_month: Selected: 7
+2020-10-06 22:58:51,586 [INFO] test_drop_down_list: clicking the dd_list
+2020-10-06 22:58:53,614 [INFO] select_year: Selected: 1993
+2020-10-06 22:58:53,653 [INFO] enter_text_by_xpath: entering thje following text: 1111 86th St
+2020-10-06 22:58:55,731 [INFO] input_address: Password entered 1111 86th St
+2020-10-06 22:58:55,771 [INFO] enter_text_by_xpath: entering thje following text: Brooklyn
+2020-10-06 22:58:57,843 [INFO] input_city: Password entered Brooklyn
+2020-10-06 22:58:57,849 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 22:58:57,861 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 22:58:57,869 [INFO] driver: Current title: Login - My Store
+2020-10-06 22:58:57,871 [INFO] driver: Current win_handle: CDwindow-069F32627DB405AC9BD70AEA48314230
+2020-10-06 22:58:57,871 [INFO] driver: Current name: chrome
+2020-10-06 22:58:58,058 [INFO] driver: browser is closed
+2020-10-06 22:58:58,059 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-06 23:00:00,101 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 23:00:02,872 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 23:00:02,872 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 23:00:02,872 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 23:00:02,873 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 23:00:05,563 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:00:08,558 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 23:00:08,693 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 23:00:08,720 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:00:10,806 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:00:12,901 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 23:00:14,971 [INFO] enter_name: First name entered Alex
+2020-10-06 23:00:15,013 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 23:00:17,072 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 23:00:17,114 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 23:00:19,197 [INFO] create_password: Password entered $Password001
+2020-10-06 23:00:19,245 [INFO] test_drop_down_list: clicking the dd_list
+2020-10-06 23:00:19,369 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 23:00:19,376 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 23:00:19,383 [INFO] driver: Current title: Login - My Store
+2020-10-06 23:00:19,384 [INFO] driver: Current win_handle: CDwindow-05BFA9AD34E2A35725822A21DC7A3C8C
+2020-10-06 23:00:19,384 [INFO] driver: Current name: chrome
+2020-10-06 23:00:19,510 [INFO] driver: browser is closed
+2020-10-06 23:00:19,511 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-06 23:02:29,757 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 23:02:32,246 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 23:02:32,246 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 23:02:32,247 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 23:02:32,247 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 23:02:34,890 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:02:37,871 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 23:02:37,987 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 23:02:38,014 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:02:40,104 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:02:42,187 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 23:02:44,263 [INFO] enter_name: First name entered Alex
+2020-10-06 23:02:44,306 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 23:02:46,383 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 23:02:46,428 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 23:02:48,521 [INFO] create_password: Password entered $Password001
+2020-10-06 23:02:48,561 [INFO] test_drop_down_list: clicking the dd_list
+2020-10-06 23:02:48,679 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 23:02:48,684 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 23:02:48,691 [INFO] driver: Current title: Login - My Store
+2020-10-06 23:02:48,692 [INFO] driver: Current win_handle: CDwindow-D7E701ACFFDAD3E09F4519D87148341E
+2020-10-06 23:02:48,692 [INFO] driver: Current name: chrome
+2020-10-06 23:02:48,830 [INFO] driver: browser is closed
+2020-10-06 23:02:48,830 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-06 23:04:59,253 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 23:05:01,776 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 23:05:01,776 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 23:05:01,776 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 23:05:01,777 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 23:05:04,527 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:05:07,458 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 23:05:07,592 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 23:05:07,618 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:05:09,706 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:05:11,794 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 23:05:13,861 [INFO] enter_name: First name entered Alex
+2020-10-06 23:05:13,894 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 23:05:15,952 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 23:05:15,991 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 23:05:18,071 [INFO] create_password: Password entered $Password001
+2020-10-06 23:05:18,111 [INFO] test_drop_down_list: clicking the dd_list
+2020-10-06 23:05:18,260 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 23:05:18,265 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 23:05:18,271 [INFO] driver: Current title: Login - My Store
+2020-10-06 23:05:18,273 [INFO] driver: Current win_handle: CDwindow-E2E0F529C3374D7C14EEC5F73DD88459
+2020-10-06 23:05:18,273 [INFO] driver: Current name: chrome
+2020-10-06 23:05:18,421 [INFO] driver: browser is closed
+2020-10-06 23:05:18,422 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-06 23:07:04,533 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 23:07:07,180 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 23:07:07,180 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 23:07:07,180 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 23:07:07,181 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 23:07:09,970 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:07:13,306 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 23:07:13,443 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 23:07:13,473 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:07:15,562 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:07:17,643 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 23:07:19,717 [INFO] enter_name: First name entered Alex
+2020-10-06 23:07:19,755 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 23:07:21,810 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 23:07:21,840 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 23:07:23,910 [INFO] create_password: Password entered $Password001
+2020-10-06 23:07:23,985 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 23:07:23,990 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 23:07:23,996 [INFO] driver: Current title: Login - My Store
+2020-10-06 23:07:23,997 [INFO] driver: Current win_handle: CDwindow-0FD3C896145DBE5B62C26D2C1A49CC2E
+2020-10-06 23:07:23,997 [INFO] driver: Current name: chrome
+2020-10-06 23:07:24,136 [INFO] driver: browser is closed
+2020-10-06 23:07:24,137 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-06 23:08:19,563 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 23:08:22,100 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 23:08:22,101 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 23:08:22,101 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 23:08:22,101 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 23:08:24,818 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:08:28,175 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 23:08:28,294 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 23:08:28,321 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:08:30,407 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:08:32,493 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 23:08:34,565 [INFO] enter_name: First name entered Alex
+2020-10-06 23:08:34,605 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 23:08:36,665 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 23:08:36,707 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 23:08:38,795 [INFO] create_password: Password entered $Password001
+2020-10-06 23:08:38,871 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 23:08:38,877 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 23:08:38,883 [INFO] driver: Current title: Login - My Store
+2020-10-06 23:08:38,884 [INFO] driver: Current win_handle: CDwindow-DAFDBD3ED3966F744D54915992AE18F9
+2020-10-06 23:08:38,884 [INFO] driver: Current name: chrome
+2020-10-06 23:08:39,054 [INFO] driver: browser is closed
+2020-10-06 23:08:39,055 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-06 23:09:40,259 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 23:09:42,816 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 23:09:42,817 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 23:09:42,817 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 23:09:42,817 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 23:09:45,244 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:09:48,226 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 23:09:48,352 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 23:09:48,384 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:09:50,479 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:09:52,562 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 23:09:54,633 [INFO] enter_name: First name entered Alex
+2020-10-06 23:09:54,673 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 23:09:56,734 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 23:09:56,774 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 23:09:58,862 [INFO] create_password: Password entered $Password001
+2020-10-06 23:09:58,901 [INFO] test_drop_down_list: clicking the dd_list
+2020-10-06 23:09:59,031 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 23:09:59,036 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 23:09:59,045 [INFO] driver: Current title: Login - My Store
+2020-10-06 23:09:59,046 [INFO] driver: Current win_handle: CDwindow-64DA6BF79567E47510376144ECD05E35
+2020-10-06 23:09:59,047 [INFO] driver: Current name: chrome
+2020-10-06 23:09:59,184 [INFO] driver: browser is closed
+2020-10-06 23:09:59,184 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-06 23:13:03,462 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 23:13:06,458 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 23:13:06,458 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 23:13:06,458 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 23:13:06,458 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 23:13:09,297 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:13:13,124 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 23:13:13,238 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 23:13:13,267 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:13:15,420 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:13:17,537 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 23:13:17,538 [WARNING] urlopen: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f92be3df2e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/460bf4eaadac80d7f818612233f649ae/url
+2020-10-06 23:13:17,539 [WARNING] urlopen: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f92be76bb50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/460bf4eaadac80d7f818612233f649ae/url
+2020-10-06 23:13:17,540 [WARNING] urlopen: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f92be76ba90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/460bf4eaadac80d7f818612233f649ae/url
+2020-10-06 23:13:22,599 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 23:13:25,121 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 23:13:25,121 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 23:13:25,122 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 23:13:25,122 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 23:13:28,183 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:13:31,410 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 23:13:31,586 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 23:13:31,630 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:13:33,767 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:13:35,858 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 23:13:37,941 [INFO] enter_name: First name entered Alex
+2020-10-06 23:13:37,978 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 23:13:40,038 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 23:13:40,080 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 23:13:42,192 [INFO] create_password: Password entered $Password001
+2020-10-06 23:13:42,233 [INFO] enter_text_by_xpath: entering thje following text: 1111 86th St
+2020-10-06 23:13:44,371 [INFO] input_address: Password entered 1111 86th St
+2020-10-06 23:13:44,417 [INFO] enter_text_by_xpath: entering thje following text: Brooklyn
+2020-10-06 23:13:46,528 [INFO] input_city: Password entered Brooklyn
+2020-10-06 23:13:46,532 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 23:13:46,545 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 23:13:46,551 [INFO] driver: Current title: Login - My Store
+2020-10-06 23:13:46,553 [INFO] driver: Current win_handle: CDwindow-C28FE2E50D5F846DC1FA9E153E646D67
+2020-10-06 23:13:46,553 [INFO] driver: Current name: chrome
+2020-10-06 23:13:46,761 [INFO] driver: browser is closed
+2020-10-06 23:13:46,763 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-06 23:19:38,707 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 23:19:41,371 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 23:19:41,371 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 23:19:41,371 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 23:19:41,372 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 23:19:44,196 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:19:47,550 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 23:19:47,730 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 23:19:47,763 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:19:49,867 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:19:51,964 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 23:19:54,051 [INFO] enter_name: First name entered Alex
+2020-10-06 23:19:54,093 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 23:19:56,164 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 23:19:56,204 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 23:19:58,348 [INFO] create_password: Password entered $Password001
+2020-10-06 23:19:58,383 [INFO] test_drop_down_list: clicking the dd_list
+2020-10-06 23:19:58,533 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 23:19:58,552 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 23:19:58,559 [INFO] driver: Current title: Login - My Store
+2020-10-06 23:19:58,561 [INFO] driver: Current win_handle: CDwindow-96FBBA0DC49E365242676088135E9590
+2020-10-06 23:19:58,561 [INFO] driver: Current name: chrome
+2020-10-06 23:19:58,738 [INFO] driver: browser is closed
+2020-10-06 23:19:58,738 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-06 23:22:06,681 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 23:22:09,959 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 23:22:09,959 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 23:22:09,959 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 23:22:09,960 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 23:22:12,863 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:22:16,245 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 23:22:16,425 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 23:22:16,457 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:22:18,570 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:22:20,653 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 23:22:22,756 [INFO] enter_name: First name entered Alex
+2020-10-06 23:22:22,791 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 23:22:24,866 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 23:22:24,927 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 23:22:27,032 [INFO] create_password: Password entered $Password001
+2020-10-06 23:22:37,646 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 23:22:37,652 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 23:22:37,658 [INFO] driver: Current title: Login - My Store
+2020-10-06 23:22:37,660 [INFO] driver: Current win_handle: CDwindow-74AAE22B8359CDD60A933B8549C3B8E9
+2020-10-06 23:22:37,660 [INFO] driver: Current name: chrome
+2020-10-06 23:22:37,821 [INFO] driver: browser is closed
+2020-10-06 23:22:37,821 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-06 23:31:05,499 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 23:31:08,182 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 23:31:08,182 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 23:31:08,182 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 23:31:08,182 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 23:31:10,950 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:31:14,342 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 23:31:14,493 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 23:31:14,520 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:31:16,615 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:31:18,693 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 23:31:20,761 [INFO] enter_name: First name entered Alex
+2020-10-06 23:31:20,800 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 23:31:22,856 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 23:31:22,899 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 23:31:24,993 [INFO] create_password: Password entered $Password001
+2020-10-06 23:31:35,432 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 23:31:35,438 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 23:31:35,444 [INFO] driver: Current title: Login - My Store
+2020-10-06 23:31:35,445 [INFO] driver: Current win_handle: CDwindow-348B510B2124A6E19B97DEE840654E88
+2020-10-06 23:31:35,446 [INFO] driver: Current name: chrome
+2020-10-06 23:31:35,578 [INFO] driver: browser is closed
+2020-10-06 23:31:35,578 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-06 23:45:24,999 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 23:45:28,268 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 23:45:28,269 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 23:45:28,270 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 23:45:28,270 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 23:45:31,641 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:45:35,385 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 23:45:35,517 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 23:45:35,544 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:45:37,704 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:45:39,790 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 23:45:41,874 [INFO] enter_name: First name entered Alex
+2020-10-06 23:45:41,917 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 23:45:43,978 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 23:45:44,023 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 23:45:46,105 [INFO] create_password: Password entered $Password001
+2020-10-06 23:45:46,145 [INFO] enter_text_by_xpath: entering thje following text: 1111 86th St
+2020-10-06 23:45:48,219 [INFO] input_address: Password entered 1111 86th St
+2020-10-06 23:45:48,255 [INFO] enter_text_by_xpath: entering thje following text: Brooklyn
+2020-10-06 23:45:50,325 [INFO] input_city: Password entered Brooklyn
+2020-10-06 23:46:00,925 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 23:46:00,930 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 23:46:00,937 [INFO] driver: Current title: Login - My Store
+2020-10-06 23:46:00,938 [INFO] driver: Current win_handle: CDwindow-8A55407A1EB3CE682986563C4D2015EE
+2020-10-06 23:46:00,939 [INFO] driver: Current name: chrome
+2020-10-06 23:46:01,085 [INFO] driver: browser is closed
+2020-10-06 23:46:01,086 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-06 23:48:30,515 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 23:48:33,147 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 23:48:33,148 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 23:48:33,149 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 23:48:33,149 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 23:48:35,838 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:48:38,993 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 23:48:39,107 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 23:48:39,136 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:48:41,460 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:48:43,544 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 23:48:45,614 [INFO] enter_name: First name entered Alex
+2020-10-06 23:48:45,652 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 23:48:47,712 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 23:48:47,752 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 23:48:49,831 [INFO] create_password: Password entered $Password001
+2020-10-06 23:48:49,866 [INFO] enter_text_by_xpath: entering thje following text: 1111 86th St
+2020-10-06 23:48:51,946 [INFO] input_address: Password entered 1111 86th St
+2020-10-06 23:48:51,991 [INFO] enter_text_by_xpath: entering thje following text: Brooklyn
+2020-10-06 23:48:54,055 [INFO] input_city: Password entered Brooklyn
+2020-10-06 23:49:14,677 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 23:49:14,688 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 23:49:14,698 [INFO] driver: Current title: Login - My Store
+2020-10-06 23:49:14,701 [INFO] driver: Current win_handle: CDwindow-97CC1626E3D8AD76620B3D93F126253C
+2020-10-06 23:49:14,701 [INFO] driver: Current name: chrome
+2020-10-06 23:49:14,812 [INFO] driver: browser is closed
+2020-10-06 23:49:14,812 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-06 23:49:29,237 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 23:49:31,971 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 23:49:31,971 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 23:49:31,972 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 23:49:31,972 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 23:49:35,078 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:49:38,185 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 23:49:38,323 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 23:49:38,351 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:49:40,435 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:49:42,515 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 23:49:44,590 [INFO] enter_name: First name entered Alex
+2020-10-06 23:49:44,629 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 23:49:46,701 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 23:49:46,746 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 23:49:48,833 [INFO] create_password: Password entered $Password001
+2020-10-06 23:49:48,873 [INFO] enter_text_by_xpath: entering thje following text: 1111 86th St
+2020-10-06 23:49:50,956 [INFO] input_address: Password entered 1111 86th St
+2020-10-06 23:49:50,999 [INFO] enter_text_by_xpath: entering thje following text: Brooklyn
+2020-10-06 23:49:53,073 [INFO] input_city: Password entered Brooklyn
+2020-10-06 23:49:53,108 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:50:00,142 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 23:50:00,152 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 23:50:00,157 [INFO] driver: Current title: Login - My Store
+2020-10-06 23:50:00,159 [INFO] driver: Current win_handle: CDwindow-8FDD2BDEB619ADA393F03E13E43F3ABC
+2020-10-06 23:50:00,159 [INFO] driver: Current name: chrome
+2020-10-06 23:50:00,286 [INFO] driver: browser is closed
+2020-10-06 23:50:00,286 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-06 23:52:54,950 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 23:52:57,553 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 23:52:57,553 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 23:52:57,553 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 23:52:57,554 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 23:53:00,080 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:53:03,400 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 23:53:03,538 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 23:53:03,566 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:53:05,663 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:53:07,746 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 23:53:09,832 [INFO] enter_name: First name entered Alex
+2020-10-06 23:53:09,873 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 23:53:11,929 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 23:53:11,974 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 23:53:14,053 [INFO] create_password: Password entered $Password001
+2020-10-06 23:53:14,087 [INFO] enter_text_by_xpath: entering thje following text: 1111 86th St
+2020-10-06 23:53:16,169 [INFO] input_address: Password entered 1111 86th St
+2020-10-06 23:53:16,210 [INFO] enter_text_by_xpath: entering thje following text: Brooklyn
+2020-10-06 23:53:18,278 [INFO] input_city: Password entered Brooklyn
+2020-10-06 23:53:18,443 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 23:53:18,448 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 23:53:18,458 [INFO] driver: Current title: Login - My Store
+2020-10-06 23:53:18,459 [INFO] driver: Current win_handle: CDwindow-BDFF81526F7E4A812D137C4E41682C52
+2020-10-06 23:53:18,460 [INFO] driver: Current name: chrome
+2020-10-06 23:53:18,593 [INFO] driver: browser is closed
+2020-10-06 23:53:18,593 [INFO] driver: ******** TEARDOWN completed *************
+2020-10-06 23:55:11,785 [INFO] driver: ********** This is the SETUP fixture to run before your scope of your fixture **********
+2020-10-06 23:55:14,541 [INFO] test_createaccount_case1: test_createaccount started ...
+2020-10-06 23:55:14,542 [ERROR] test_createaccount_case1: I am an exceptional case
+2020-10-06 23:55:14,542 [WARNING] test_createaccount_case1: Something does not seem to be right, but not an error
+2020-10-06 23:55:14,542 [CRITICAL] test_createaccount_case1: WOUUUW STOP NOW, CAN NOT RUN ANYTHING
+2020-10-06 23:55:17,436 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:55:21,124 [INFO] enter_text_by_xpath: entering thje following text: uy776@email.com
+2020-10-06 23:55:21,257 [INFO] enter_email: email entered uy776@email.com
+2020-10-06 23:55:21,286 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:55:23,901 [INFO] click_element_by_xpath: clicking the element
+2020-10-06 23:55:25,997 [INFO] enter_text_by_xpath: entering thje following text: Alex
+2020-10-06 23:55:28,075 [INFO] enter_name: First name entered Alex
+2020-10-06 23:55:28,113 [INFO] enter_text_by_xpath: entering thje following text: Smith
+2020-10-06 23:55:30,169 [INFO] enter_lastname: Last name entered Smith
+2020-10-06 23:55:30,208 [INFO] enter_text_by_xpath: entering thje following text: $Password001
+2020-10-06 23:55:32,283 [INFO] create_password: Password entered $Password001
+2020-10-06 23:55:32,321 [INFO] enter_text_by_xpath: entering thje following text: 1111 86th St
+2020-10-06 23:55:34,408 [INFO] input_address: Password entered 1111 86th St
+2020-10-06 23:55:34,445 [INFO] enter_text_by_xpath: entering thje following text: Brooklyn
+2020-10-06 23:55:36,507 [INFO] input_city: Password entered Brooklyn
+2020-10-06 23:55:36,668 [INFO] driver: ******** This is the TEARDOWN steps after each of your scope *************
+2020-10-06 23:55:36,689 [INFO] driver: Current url: http://automationpractice.com/index.php?controller=authentication&back=my-account#account-creation
+2020-10-06 23:55:36,697 [INFO] driver: Current title: Login - My Store
+2020-10-06 23:55:36,698 [INFO] driver: Current win_handle: CDwindow-866C736F861262319076A05BB3F64EC2
+2020-10-06 23:55:36,698 [INFO] driver: Current name: chrome
+2020-10-06 23:55:36,830 [INFO] driver: browser is closed
+2020-10-06 23:55:36,831 [INFO] driver: ******** TEARDOWN completed *************
