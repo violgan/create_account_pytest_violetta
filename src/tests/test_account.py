@@ -17,11 +17,7 @@ def test_createaccount_case1(driver):
     pswd = data['scenario1']['password']
     name = data['scenario1']['firstname']
     lastname = data['scenario1']['lastname']
-    # day = data['scenario1']['day']
-    month = data['scenario1']['mon']
-    year = data['scenario1']['year']
-    full_address = data['scenario1']['address']
-    city = data['scenario1']['city']
+
 
     account_page = AccountPage(driver)
 
@@ -30,18 +26,29 @@ def test_createaccount_case1(driver):
     time.sleep(1)
 
     account_page.click_sign_in_link()
+    account_page.take_screenshot("Home page")
     account_page.enter_email(username)
+    account_page.take_screenshot("Create account link")
     account_page.click_create_account()
     account_page.click_title()
     account_page.enter_name(name)
     account_page.enter_lastname(lastname)
     account_page.create_password(pswd)
-    account_page.select_day("2")
-    account_page.select_month(month)
-    account_page.select_year(year)
-    account_page.input_address(full_address)
-    account_page.input_city(city)
+    account_page.select_day("15")
+    account_page.select_month("2")
+    account_page.select_year("1988")
+    account_page.input_address("1111 86th St")
+    account_page.input_city("Brooklyn")
     account_page.click_state("32")
+    account_page.take_screenshot("Account info part 1")
+    account_page.enter_zip("11214")
+    account_page.enter_phone("9999999999")
+    account_page.take_screenshot("Account info part 2")
+    account_page.click_register()
+    account_page.take_screenshot("My account page")
+    account_page.checking_if_account_opened()
+
+
 
 
 

@@ -12,14 +12,15 @@ class AccountPage (BasePage):
     last_name = "//input[@id='customer_lastname']"
     password_create = "//input[@id='passwd']"
     day_of_birth = "//select[@id='days']"
-    month_of_birth = "//select[@id='months']//option"
-    year_of_birth = "//select[@id='years']//option"
+    month_of_birth = "//select[@id='months']"
+    year_of_birth = "//select[@id='years']"
     address = "//input[@id='address1']"
     city = "//input[@id='city']"
-    state = "//select[@id='id_state']//option[1]"
+    state = "//select[@id='id_state']"
     zip = "//input[@id='postcode']"
     phone = "//input[@id='phone_mobile']"
     register_button = "//button[@id='submitAccount']"
+    my_account = "//div[@id='center_column']//h1[contains(text(),'My account')]"
 
     #methods
     def click_sign_in_link(self):
@@ -85,26 +86,23 @@ class AccountPage (BasePage):
         time.sleep(2)
         utils.LOG.info(f"Selected: {value} value")
 
-
-
-
-
-
-
-
-    def enter_password(self, password):
-        self.enter_text_by_xpath(self.password_input,password)
+    def enter_zip(self, zipcode):
+        self.enter_text_by_xpath(self.zip, zipcode)
         time.sleep(2)
-        utils.LOG.info(f"email entered {password}")
+        utils.LOG.info(f"Zip code entered {zipcode}")
 
-    def click_sign_in_button(self):
-        self.click_element_by_xpath(self.sign_in_button)
-        utils.LOG.info("Sign in button clicked.")
-        time.sleep(1)
+    def enter_phone(self, mobile):
+        self.enter_text_by_xpath(self.phone, mobile)
+        time.sleep(2)
+        utils.LOG.info(f"Mobile phone entered {mobile}")
 
-    def sign_out(self):
-        self.click_element_by_xpath(self.sign_out_link)
-        utils.LOG.info("Signed out from the website.")
+    def click_register(self):
+        self.click_element_by_xpath(self.register_button)
+        time.sleep(2)
 
-    def get_app_message(self):
-        return self.get_text_by_xpath(self.message_xpath)
+    def checking_if_account_opened(self):
+        self.find_element("my-account")
+        time.sleep(2)
+
+
+

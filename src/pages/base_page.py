@@ -1,8 +1,12 @@
-from telnetlib import EC
+import datetime
+
+from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
 
 from selenium.webdriver.support.select import Select
+from selenium.webdriver.support.wait import WebDriverWait
 
-from src.all_imports import *
 import src.utilities as utils
 import time
 
@@ -38,7 +42,7 @@ class BasePage:
             print(f"xpath provided: {xpath}")
             element = self.wwait.until(EC.element_to_be_clickable((By.XPATH, xpath)))
 
-            utils.LOG.info(f"entering thje following text: {some_text}")
+            utils.LOG.info(f"entering the following text: {some_text}")
             element.send_keys(some_text)
         except NoSuchElementException as err:
             utils.LOG.warning(f"Entering Text failed by following xpath: {xpath}")
@@ -75,26 +79,18 @@ class BasePage:
             self.take_screenshot('ErrorGetText_')
 
     def test_drop_down_list(self, xpath, value):
-        # # try:
-        #
-        #     # dd_list_xpath = "//select[@id='carselect']"  # real ddown that selenium can handle
-            element = self.wwait.until(EC.element_to_be_clickable((By.XPATH, xpath)))
-
-
-        #     utils.LOG.info("clicking the dd_list")
-            element.click()
+            element = self.wwait.until(EC.presence_of_element_located((By.XPATH, xpath)))
             select = Select(element)  # !!!!!!!!!!
-            # text_options = [option.text for option in day_selection.options]
-            # print("Options available in the list: ", text_options)
-
             select.select_by_value(value)
-            # text_selected_ones = [option.text for option in day_selection.all_selected_options]
-            # utils.LOG.info("Options selected: ", text_selected_ones)
 
-        # except NoSuchElementException as err:
-        #     utils.LOG.error(f"Check element by following xpath")
-        #     utils.LOG.error(err)
-        #     self.take_screenshot('ErrorClickElement')
+
+    def find_element(self, id: str) -> str:
+            title = self.wwait.until(EC.presence_of_element_located((By.ID, id)))
+            assert ("MY ACCOUNT", title.text)
+
+
+
+
 
 
 
